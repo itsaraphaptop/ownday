@@ -1,0 +1,12 @@
+{
+  "apexskier.eslint.config.fixOnSave" : "Disable",
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "json"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/macbook\/Desktop\/php-line-login\/ownday\/.nova\/Configuration.json"
+  ],
+  "workspace.art_style" : 0,
+  "workspace.color" : 1,
+  "workspace.name" : "ownday"
+}
